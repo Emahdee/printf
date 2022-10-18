@@ -24,6 +24,7 @@ int print_c(va_list list)
 
 /**
  * print_s - prints a string
+ * 
  * @list: list
  * Return: a string
  */
