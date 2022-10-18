@@ -24,6 +24,12 @@ int _putchar(char c);
 int _printf(const char *format, ...);
 int print_c(va_list list);
 int print_s(va_list list);
-
+int _funcion(const char *format, pr_f ops[], va_list ap);
+int print_i(va_list list);
+int print_d(va_list list);
+int print_r(va_list list);
+int print_mod(va_list list);
+int print_d(va_list list);
+int _strlen(char *s);
 
 #endif /* MAIN_H */
