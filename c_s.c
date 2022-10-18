@@ -47,6 +47,7 @@ int print_s(va_list list)
 
 /**
  * print_mod - print a '%' sign
+ *
  * @list: list
  * Return: a '%' sign
  */
@@ -62,6 +63,7 @@ int print_mod(va_list list)
 
 /**
  * _strlen - Checks how long is a string
+ *
  * @s: String
  * Return: 0 or the length
  */
